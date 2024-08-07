@@ -1,0 +1,6 @@
+.main-divider{
+    margin: 50px auto;
+    border-radius: 20px;
+    box-shadow: 0px 13px 19px 0px rgba(0,0,0,0.3);
+    padding: 20px;
+}

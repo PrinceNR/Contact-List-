@@ -1,0 +1,28 @@
+.page-btns {
+    display: flex;
+    gap: 8px;
+    justify-content: end;
+}
+.sml-btn{
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    border: none;
+    background: #d8d8d8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 10px;
+}
+.pageBtn{
+    background-color: #ffebeb;
+}
+
+.sml-btn:hover {
+    background: #cacaca;
+}
+.active{
+    background: #576ff5;
+}
